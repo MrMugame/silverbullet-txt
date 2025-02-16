@@ -1,0 +1,5 @@
+name: txteditor
+functions:
+  TXTEditor:
+    path: ./editor.ts:editor
+    editor: ["txt"]
